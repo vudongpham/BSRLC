@@ -1,0 +1,1 @@
+Output land cover maps
