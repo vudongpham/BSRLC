@@ -11,7 +11,7 @@ Baltic Sea Region Land Cover scripts
   + {year}-{year}_001-365_HL_TSA_LNDLG_SAV_FBW.tif
   + {year}-{year}_001-365_HL_TSA_LNDLG_SW1_FBW.tif
   + {year}-{year}_001-365_HL_TSA_LNDLG_SW2_FBW.tif
-- {year} must be singular year (2015-2015) not two different years (2014-2015) 
+- {year} must be singular year (eg. 2015-2015) not two different years (eg. 2014-2015) 
  
 
 # 1. Creat the python environment via conda
