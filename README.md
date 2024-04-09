@@ -2,7 +2,7 @@
 Baltic Sea Region Land Cover scripts
 
 # Requirements 
-- FORCE ARD data in Fold-by-month format (FBD) in the **FORCE_datacube_fbm**. In each tile, it muss contain the following bands:
+- FORCE ARD tiled data (https://github.com/davidfrantz/force) in Fold-by-month format (FBD) must be available in the **FORCE_datacube_fbm**.  Each tile muss contain the following bands:
   + {year}-{year}_001-365_HL_TSA_LNDLG_BLU_FBW.tif
   + {year}-{year}_001-365_HL_TSA_LNDLG_GRN_FBW.tif
   + {year}-{year}_001-365_HL_TSA_LNDLG_NDV_FBW.tif
